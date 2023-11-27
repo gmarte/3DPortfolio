@@ -38,6 +38,7 @@ function Contact() {
     ).then(() => {
       setisLoading(false);
       showAlert({show: true, text: 'Message sent successfully!', type: 'success'})
+      setCurrentAnimation('idle');
       // TODO: Hide an alert
       setTimeout(() => {
         hideAlert();
