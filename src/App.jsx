@@ -2,7 +2,12 @@ import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import { Home, About, Projects, Contact } from './pages';
 
+import ReactGA from 'react-ga';
+
+
 function App() {
+  const TRACKING_ID = "G-F4VRD1QF0G"; // OUR_TRACKING_ID
+  ReactGA.initialize(TRACKING_ID);
   return (
     <main className='bg-slate-300/20 h-full'>
         <Router>

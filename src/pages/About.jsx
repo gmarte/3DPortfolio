@@ -9,7 +9,7 @@ function About() {
     <section className='max-container'>
       <h1 className='head-text'>Hello, I'm <span className='blue-gradient_text font-semibold drop-shadow'>Giancarlo</span></h1>
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-        <p>Your dedicated SAP integration specialist. My goal is to ensure robust business continuity for your organization. Let's partner up and drive your next project to success. </p>
+      <p>I am a passionate Web Developer committed to crafting powerful, user-friendly websites and applications. My approach blends innovative design with cutting-edge technology to create engaging digital experiences. Let's turn your web vision into a reality.</p>
       </div>
       <div className='py-10 flex flex-col'>
         <h3 className='subhead-text'>My Skills</h3>
@@ -36,7 +36,7 @@ function About() {
         <h3 className='subhead-text'>Work Experience</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Over the years, I have worked on a wide range of projects, ranging from small websites to large enterprise applications. My ability to adapt to new technologies and methodologies has allowed me to consistently deliver high-quality work.
+          With a diverse portfolio in web development, I have tackled projects ranging from interactive web applications to comprehensive e-commerce platforms. My adaptability to new technologies and commitment to excellence ensure the delivery of top-notch digital solutions.
         </p>
       </div>
       <div className='mt-12 flex'>

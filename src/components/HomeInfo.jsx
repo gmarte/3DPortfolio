@@ -17,28 +17,28 @@ const InfoBox = ({text, link, btnText}) => (
 const renderContent = {
     1: (
         <h1 className='sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>
-            Hi, I am <span className='font-semibold'>Giancarlo </span>👨‍💻
+            Hi, I am <span className='font-semibold'>Giancarlo </span>
             <br />
-            a Software Engineer from Dominican Republic.
+            a skilled Web Developer from the Dominican Republic.
         </h1>
     ),    
     2: (
         <InfoBox
-            text="Worked with many companies andpickd up many skills along the way"
+            text="Bringing over a decade of experience in web development, specializing in creating dynamic, user-centric solutions"
             link="/about"
             btnText="learn more"
          />
     ),
     3: (
         <InfoBox
-            text="Led multiple projects to success over the years. Curious about the impact"
+            text="Led diverse web projects, integrating advanced technologies and innovative approaches for national and international clients"
             link="/projects"
             btnText="Visit my portfolio"
          />
     ),
     4: (
         <InfoBox
-            text="Need a project done or looking for a dev? I'm just a few keystrokes away"
+            text="If you need a visionary web developer for your next project, I'm ready to bring your digital aspirations to life"
             link="/contact"
             btnText="Let's talk"
          />

@@ -11,7 +11,7 @@ function Projects() {
       <h1 className='head-text'>My <span className='blue-gradient_text font-semibold drop-shadow'>Projects</span></h1>
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Over the years, I have worked on a wide range of projects, ranging from small websites to large enterprise applications. My ability to adapt to new technologies and methodologies has allowed me to consistently deliver high-quality work.
+          My project portfolio showcases a journey through various facets of web development, from creating sleek, responsive websites to developing complex, feature-rich web applications. Each project reflects my dedication to leveraging the latest technologies and innovative design principles to exceed client expectations and deliver exceptional user experiences.
         </p>
       </div>
       <div className='flex flex-wrap my-20 gap-16'>
