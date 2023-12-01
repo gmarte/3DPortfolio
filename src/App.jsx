@@ -2,7 +2,7 @@ import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import { Home, About, Projects, Contact } from './pages';
 
-import ReactGA from 'react-ga';
+import ReactGA from 'react-ga4';
 
 
 function App() {
