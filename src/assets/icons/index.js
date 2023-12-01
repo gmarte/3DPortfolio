@@ -11,6 +11,7 @@ import nextjs from './nextjs.svg'
 import nodejs from './nodejs.svg'
 import react from './react.svg'
 import redux from './redux.svg'
+import django from './django.svg'
 import sass from './sass.svg'
 import tailwindcss from './tailwindcss.svg'
 import typescript from './typescript.svg'
@@ -26,9 +27,24 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import linux from './linux.svg'
+import postgresql from './postgresql.svg'
+import argentoba from './argentoba.svg'
+import dajerco from './dajerco.svg'
+import promises from './promises.svg'
+import ccva from './ccva.svg'
+import ftm from './ftm.svg'
+import oxia from './oxia.svg'
+import nextmedia from './nextmedia.svg'
+import webpoint from './webpoint.svg'
+import comunique from './comunique.svg'
+import ccnhorse from './ccnhorse.svg'
+import ci from './ci.svg'
 
 export {
     css,
+    linux,
+    postgresql,
     express,
     git,
     github,
@@ -41,6 +57,7 @@ export {
     nodejs,
     react,
     redux,
+    django,
     sass,
     tailwindcss,
     typescript,
@@ -55,5 +72,16 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,    
+    dajerco,
+    argentoba,
+    ccva,
+    promises,
+    ftm,
+    oxia,
+    nextmedia,
+    webpoint,
+    comunique,
+    ccnhorse,
+    ci
 }
