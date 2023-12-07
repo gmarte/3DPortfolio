@@ -110,7 +110,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "TI Solutions Manager",
+        title: "IT Solutions Manager",
         company_name: "Centro Cuesta Nacional",
         icon: ccnhorse,
         iconBg: "#a2d2ff",
