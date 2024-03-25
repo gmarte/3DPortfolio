@@ -13,3 +13,17 @@ Currently, two official plugins are available:
 > https://gltf.pmnd.rs/ to turn GLB files into 3djs scene
 
 
+## Dev
+
+```bash
+npm run dev
+```
+
+
+## Build
+
+```bash
+npm run build 
+```
+
+

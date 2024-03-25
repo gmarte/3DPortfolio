@@ -242,7 +242,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Family Task Manager',
         description: 'Web platform that allows parents to assign chores and responsibilities to their children and reward them for completion.',
-        link: 'https://ftm-v2-me-gmartecom.vercel.app/',
+        link: 'https://ftm-v2.vercel.app/',
     },
     {
         iconUrl: ccva,
